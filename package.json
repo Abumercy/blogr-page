@@ -1,5 +1,5 @@
 {"scripts": {
-  "start": "live-server dist"
+  "start": "live-server"
 },
   "devDependencies": {
     "tailwindcss": "^3.2.1"
